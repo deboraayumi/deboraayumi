@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Debora Aguiar 👋
 
-<!--
-**deboraayumi/deboraayumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems student in Rio Claro, SP (Brazil), looking for an IT internship.
+Currently building my foundation in Java (OOP, back-end) and data structures in C.
 
-Here are some ideas to get you started:
+### Stack
+- **Languages:** Java, C, Python
+- **Web:** HTML, CSS, JavaScript, PHP
+- **Databases:** MySQL, Oracle
+- **Tools:** Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- [ThermVaccine](https://github.com/JoaovlLima/ThermVaccine_PI) - team project: cold-chain vaccine monitoring platform
+- [Cake Shop](https://github.com/deboraayumi/CakeShop) - CLI-based Java app with layered architecture, using a JSON file as its database (in progress)
+  
+### Spoken Languages 
+- Brazilian Portuguese (native) · Japanese (native) · English (B2)
+
+### Outside Code
+- I'm from Japan
+- I like to climb mountains and make handmade crafts
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/deboratanowe-aguiar) · deboratanowe.aguiar@gmail.com
